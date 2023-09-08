@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Z9547DGXJX.com.ulusalomer.journitravelapp",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
